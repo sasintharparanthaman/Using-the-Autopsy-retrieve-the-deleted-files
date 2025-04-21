@@ -1,5 +1,5 @@
 # Using-the-Autopsy-retrieve-the-deleted-files
-# NAME:SASINTHAR p
+# NAME:SASINTHAR P
 # REG:NO:212223230199
 
 ## AIM:
